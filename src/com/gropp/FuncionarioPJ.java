@@ -66,4 +66,18 @@ public abstract class FuncionarioPJ {
     /* public void setValorRemuneracao(Double valorRemuneracao) {
          this.valorRemuneracao = valorRemuneracao;
     }*/
+
+    // como as variaveis (atributos) sao private nesta classe, precisamos exporta-los atraves do toString e
+    // copiar para a classe filha.
+//    @Override
+//    public String toString() {
+//        return "FuncionarioPJ{" +
+//                "nome='" + nome + '\'' +
+//                ", documento='" + documento + '\'' +
+//                ", endereco=" + endereco +
+//                ", horasTrabalhadas=" + horasTrabalhadas +
+//                ", valorHora=" + valorHora +
+//                ", valorRemuneracao=" + valorRemuneracao +
+//                '}';
+//    }
 }
