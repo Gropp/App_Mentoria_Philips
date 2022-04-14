@@ -1,4 +1,4 @@
-package com.gropp;
+package com.gropp.domain;
 
 // essa interface serve para calcular a bonificacao, uma vez que o gerente e o vendedor, um filho da classe PJ
 // e outro filho da classe CLT, sao de classes diferentes e nao tem pai em comum, mas tem a bonificacao em comum

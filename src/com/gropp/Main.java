@@ -1,5 +1,10 @@
 package com.gropp;
 
+import com.gropp.domain.Endereco;
+import com.gropp.domain.Gerente;
+import com.gropp.domain.OperadorDeCaixa;
+import com.gropp.domain.Vendedor;
+
 public class Main {
 
     public static void main(String[] args) {

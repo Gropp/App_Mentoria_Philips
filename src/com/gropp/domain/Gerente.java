@@ -1,4 +1,4 @@
-package com.gropp;
+package com.gropp.domain;
 
 public class Gerente extends FuncionarioPJ implements CalculaBonificacao{
     // atributo do gerente

@@ -1,4 +1,4 @@
-package com.gropp;
+package com.gropp.domain;
 // dados sobre o endereco dos funcionarios
 public class Endereco {
     /* atributos da classe endereco - o que faz parte do endereco

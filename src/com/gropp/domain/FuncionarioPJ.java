@@ -1,4 +1,4 @@
-package com.gropp;
+package com.gropp.domain;
 
 // classe abstrata - so ira fazer heranca por isso abstract
 public abstract class FuncionarioPJ {

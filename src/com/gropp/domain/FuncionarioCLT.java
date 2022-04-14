@@ -1,4 +1,4 @@
-package com.gropp;
+package com.gropp.domain;
 
 /* Classes abstracts só funcionam para HERANCA */
 public abstract class FuncionarioCLT {

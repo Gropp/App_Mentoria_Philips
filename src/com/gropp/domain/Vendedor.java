@@ -1,10 +1,14 @@
-package com.gropp;
+package com.gropp.domain;
+
+import com.gropp.domain.CalculaBonificacao;
+import com.gropp.domain.FuncionarioCLT;
+
 /* essa classe é filha da classe funcionario CLT
    ela herda os metodos da classe pai
    vendedor é uma extensao de funcionarios clt */
 // o implements se referencia a interface criada para calcular a bonificacao e que precisa ser
 // acessada pela classe vendedor
-public class Vendedor extends FuncionarioCLT implements CalculaBonificacao{
+public class Vendedor extends FuncionarioCLT implements CalculaBonificacao {
     //atributos unicos do filho
     private double valorDaBonificacao;
 

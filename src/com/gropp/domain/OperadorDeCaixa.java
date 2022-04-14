@@ -1,4 +1,7 @@
-package com.gropp;
+package com.gropp.domain;
+
+import com.gropp.domain.Endereco;
+import com.gropp.domain.FuncionarioCLT;
 
 public class OperadorDeCaixa extends FuncionarioCLT {
     private final double quebraDeCaixa;
